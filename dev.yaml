@@ -1,3 +1,3 @@
-- stage-0
-  name: stage-0
+- stage-dev
+  name: stage-dev
   sha: abcdef
