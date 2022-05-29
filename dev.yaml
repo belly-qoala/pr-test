@@ -1,3 +1,6 @@
 - stage-dev
   name: stage-dev
-  sha: abcdef
+  sha: abcdef123
+- stage-dev-2
+  name: stage-dev-2
+  sha: jklkl0987
